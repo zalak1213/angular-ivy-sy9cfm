@@ -1,0 +1,16 @@
+p {
+  font-family: Lato;
+}
+.li1{
+  list-style-type: none;
+  display: inline-block;
+  margin: 20px;
+  color:green;
+}
+.ul1{
+  background-color:bisque;
+  cursor: pointer;
+}
+.mee{
+  color: red;
+}
